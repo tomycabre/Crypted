@@ -24,20 +24,16 @@ Secondary colors:
  - Green `rgb(0, 160, 143)`
  - Yellow `rgb(239, 195, 88)`
  - Orange `rgb(248, 102, 71)`
- - gray `rgb(99, 99, 99)`
+ - Gray `rgb(99, 99, 99)`
 
 <img src="https://i.postimg.cc/Kjs4nGhS/Screen-Shot-2022-09-10-at-5-41-51-PM.png" width=75% height=75%> 
 
 ## Fonts
-Montserrat      
+Montserrat & Inter      
  - 300           
  - 400
  - 500
  - 700
- 
-Inter
- - 300
- - 400
- - 500
- - 700
- 
+
+## Logos
+<img src='https://i.postimg.cc/JDSM2v0q/Screen-Shot-2022-09-11-at-12-25-49-AM.png'>

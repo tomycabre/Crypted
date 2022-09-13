@@ -18,7 +18,7 @@ The main objective of our application is to encourage those who have interest in
 ## Color palette
 ### Principal color:
  - Purple `rgb(89, 50, 195)`
- 
+
 ### Secondary colors:
  - Blue `rgb(69, 118, 191)`
  - Green `rgb(0, 160, 143)`

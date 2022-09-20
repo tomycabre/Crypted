@@ -1,7 +1,7 @@
 
 
 ![Screen-Shot-2022-09-10-at-3-00-58-PM.png](https://i.postimg.cc/Cxq4qFKy/Screen-Shot-2022-09-10-at-3-00-58-PM.png)
- 
+  
 # Creation of Crypted.
 Crypted is an app designed by students from the University of Palermo (UP) in Buenos Aires, Argentina, and coded by Tomas Cabrera student from North Carolina Wesleyan University (NCWU) in North Carolina, United States. This app was designed in the University of Palermo for the course "Diseño de Imagen y Sonido" and then it was coded as a personal project of Tomas Cabrera with the authorization of the students that designed the project.
 
